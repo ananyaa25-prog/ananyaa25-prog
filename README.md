@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Ananya 👋
 
-<!--
-**ananyaa25-prog/ananyaa25-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech CSE | Data Science | AI/ML
 
-Here are some ideas to get you started:
+I'm a Computer Science undergraduate specializing in Data Science at VIT Vellore, 
+with a strong interest in AI/ML, intelligent systems, and problem solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building practical, data-driven solutions and exploring how AI can be 
+applied to solve real-world problems.
+
+## 🚀 Featured Projects
+
+- **[TwinShield]**
+  An explainable Digital Twin framework for predictive network service degradation.
+
+- **[Intelligent Knowledge Tracing]**
+  An AI-driven personalized learning system using Deep Learning.
+
+- **[Intelligent SQL Query Compiler & AI-Based Query Optimization]**
+  An intelligent system focused on SQL query compilation and AI-based optimization.
+
+- **[ExamEase]**
+  A platform designed to simplify and improve the examination experience.
+
+## 🌱 Currently Exploring
+
+- Data Structures & Algorithms
+- Machine Learning & Deep Learning
+- Data Analytics
+- Generative AI
+- Intelligent Systems
+
